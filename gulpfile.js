@@ -16,5 +16,6 @@ gulp.task('md-parse', function() {
 
 gulp.task('default', ['server'], function() {
   gulp.watch('docs-md/**/*.md', ['md-parse']);
-  gulp.watch('./docs/*.html', browserSync.reload);
+  gulp.watch('./docs/index-tmp.html', ['md-parse']);
+  gulp.watch('./docs/index.html', browserSync.reload);
 });

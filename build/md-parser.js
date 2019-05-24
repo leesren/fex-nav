@@ -127,7 +127,7 @@ function warpContent(info, content) {
 }
 function logoHandle(url = '') {
   const name = url.split('/').slice(-1);
-  return /^http(s):/.test(url)
+  return /^http(s)*:/.test(url)
     ? url
     : /^.\/assets\/images/.test(url)
     ? url
@@ -147,7 +147,7 @@ function buildContent(ls = []) {
                 ${el.title}
                 </div>
 
-                <div class="desc">
+                <div class="desc" title="${el.desc}">
                 ${el.desc}
                 </div>
             </div>
@@ -159,7 +159,7 @@ function buildContent(ls = []) {
               <div class="logo">
                 <img class="loaded" src="${logoHandle(el.logo)}">
               </div>
-              <div class="desc">
+              <div class="desc" title="${el.desc}">
                 <p>${el.desc}</p>
               </div>
             </div> 

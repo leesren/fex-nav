@@ -106,6 +106,16 @@ var navList = [
     title: '书籍推荐',
     link: 'bookShare',
     icon: 'icon-shu-copy'
+  },
+  {
+    title: '有趣的',
+    link: 'funnyShare',
+    icon: 'ion-md-aperture'
+  },
+  {
+    title: '收集狂',
+    link: 'collectBoy',
+    icon: 'ion-md-star'
   }
 ];
 ```

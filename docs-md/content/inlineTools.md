@@ -29,6 +29,12 @@ var list = [
     link: 'https://cubic-bezier.com/#.17,.67,.83,.67',
     logo: './assets/images/cubic-bezier.jpg',
     desc: '贝塞尔曲线在线生成工具'
+  },
+  {
+    title: '在线图表制作工具',
+    link: 'https://www.draw.io/',
+    logo: './assets/images/drawio.jpg',
+    desc: '在线图表制作工具'
   }
 ];
 ```

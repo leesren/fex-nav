@@ -82,8 +82,8 @@ body {
     cursor: pointer;
   }
   .container .left-bar .nav .nav-item {
-    max-height: 100vh;
-    overflow-y: scroll;
+    height: calc(100% - 104px);
+    overflow-y: auto;
   }
   .container .left-bar .nav .nav-item::-webkit-scrollbar {
     width: 4px;

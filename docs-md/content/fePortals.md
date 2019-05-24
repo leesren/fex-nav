@@ -13,12 +13,6 @@ var list = [
     desc: 'W3cplus是一个致力于推广国内前端行业的技术博客'
   },
   {
-    title: 'HTML5梦工厂',
-    link: 'http://www.html5dw.com/',
-    logo: 'html5dw-favicon.png',
-    desc: 'HTML5梦工场 助推HTML5发展'
-  },
-  {
     title: 'w3ctech',
     link: 'https://w3ctech.com/',
     logo: 'w3ctech-favicon.jpg',
