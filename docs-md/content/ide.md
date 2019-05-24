@@ -1,6 +1,12 @@
 ```js
 var list = [
   {
+    title: 'VSCode',
+    link: 'https://code.visualstudio.com/',
+    logo: './assets/images/vscode.png',
+    desc: '重新定义编辑器'
+  },
+  {
     title: 'Sublime',
     link: 'https://www.sublimetext.com/',
     logo: 'sublime-favicon.png',

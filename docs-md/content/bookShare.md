@@ -10,7 +10,7 @@ var list = [
     title: 'JavaScript高级程序设计',
     link: 'https://book.douban.com/subject/10546125//',
     desc: '红宝书',
-    logo: 'http://www.alloyteam.com/nav/static/images/js-design-pattern.jpg'
+    logo: 'https://img3.doubanio.com/view/subject/l/public/s8958650.jpg'
   },
   {
     title: 'JavaScript设计模式与开发实践',
@@ -22,7 +22,7 @@ var list = [
     title: 'HTTP权威指南',
     link: 'https://book.douban.com/subject/10746113/',
     desc: '比较少见的全面介绍HTTP协议的书。',
-    logo: 'http://www.alloyteam.com/nav/static/images/http-guide.jpg'
+    logo: 'https://img1.doubanio.com/view/subject/l/public/s11329547.jpg'
   }
 ];
 ```

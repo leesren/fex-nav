@@ -19,28 +19,16 @@ var list = [
     desc: '遵循commonjs规范的模块化工具'
   },
   {
-    title: 'Yeoman',
-    link: 'http://yeoman.io/',
-    logo: 'yeoman-favicon.png',
-    desc: '一套用于自动化开发工作流程的工具。'
-  },
-  {
-    title: 'Grunt',
-    link: 'http://www.gruntjs.net/',
-    logo: 'grunt-favicon.png',
-    desc: 'JavaScript 世界的构建工具'
-  },
-  {
     title: 'Babel',
     link: 'https://babeljs.io/',
     logo: 'babel-favicon.png',
     desc: '使用最新的规范来编写js'
   },
   {
-    title: 'FIS3',
-    link: 'https://fex-team.github.io/fis3/',
-    logo: 'fis-favicon.png',
-    desc: 'FIS3 , 为你定制的前端工程构建工具'
+    title: 'TypeScript',
+    link: 'https://babeljs.io/',
+    logo: './assets/images/typescript.png',
+    desc: '使用最新的规范来编写js'
   }
 ];
 ```

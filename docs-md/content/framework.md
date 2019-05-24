@@ -12,12 +12,7 @@ var list = [
     logo: 'vue-favicon.png',
     desc: '构建数据驱动的 web 界面的渐进式框架'
   },
-  {
-    title: 'jQuery',
-    link: 'http://www.jquery123.com/',
-    logo: 'jquery.png',
-    desc: '优秀的 JavaScript 代码库'
-  },
+
   {
     title: 'Bootstrap',
     link: 'http://www.bootcss.com/',
@@ -29,6 +24,14 @@ var list = [
     link: 'https://reactnative.cn/',
     logo: 'react-native.png',
     desc: '使用 React 构建原生 app 的框架'
+  },
+  {
+    title: 'Flutter',
+    link: 'https://flutter.dev/',
+    logo:
+      'https://cdn.jsdelivr.net/gh/flutterchina/website@1.0/images/flutter-mark-square-100.png',
+    desc:
+      'Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。'
   },
   {
     title: 'RxJs',

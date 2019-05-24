@@ -13,10 +13,10 @@ var list = [
     desc: '阿里巴巴矢量图标库'
   },
   {
-    title: 'IcoMoon',
-    link: 'https://icomoon.io/',
-    logo: 'icomoon-favicon.png',
-    desc: 'WEB字体图标制造器'
+    title: 'ionicons',
+    link: 'https://ionicons.com/',
+    logo: './assets/images/ionic.png',
+    desc: '精心设计的开源图标'
   }
 ];
 ```

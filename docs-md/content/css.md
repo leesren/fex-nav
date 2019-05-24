@@ -6,12 +6,7 @@ var list = [
     logo: 'css-tricks-favicon.png',
     desc: '一个关于运用CSS技术进行网络开发和设计的小技巧的交流网站'
   },
-  {
-    title: 'Css Wizardry',
-    link: 'http://csswizardry.com/',
-    logo: 'css-wizardry-favicon.png',
-    desc: 'Front-end Architecture and Performance Engineering'
-  },
+
   {
     title: 'Sass',
     link: 'http://sass.bootcss.com/docs/sass-reference/',
@@ -29,6 +24,13 @@ var list = [
     link: 'http://stylus-lang.com/',
     logo: 'stylus-favicon.png',
     desc: 'EXPRESSIVE, DYNAMIC, ROBUST CSS'
+  },
+  {
+    title: 'Instagram.css',
+    link: 'https://github.com/picturepan2/instagram.css',
+    logo:
+      'https://picturepan2.github.io/instagram.css/assets/img/instagram.jpg',
+    desc: 'Instagram 滤镜 CSS实现'
   }
 ];
 ```

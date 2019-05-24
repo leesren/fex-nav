@@ -35,11 +35,7 @@ var navList = [
     link: 'animation',
     icon: 'icon-iconfontcolor54'
   },
-  {
-    title: '游戏框架',
-    link: 'gameFramework',
-    icon: 'icon-youxi'
-  },
+
   {
     title: 'CSS相关',
     link: 'css',
@@ -55,11 +51,7 @@ var navList = [
     link: 'nodejs',
     icon: 'icon-nodejs'
   },
-  {
-    title: 'IDE',
-    link: 'ide',
-    icon: 'icon-editor'
-  },
+
   {
     title: '调试工具',
     link: 'debugTools',
@@ -89,6 +81,21 @@ var navList = [
     title: '前端公众号',
     link: 'wechatSubscription',
     icon: 'icon-importedlayerscopy3'
+  },
+  {
+    title: '数据API',
+    link: 'api',
+    icon: 'ion-md-analytics'
+  },
+  {
+    title: 'IDE',
+    link: 'ide',
+    icon: 'icon-editor'
+  },
+  {
+    title: '游戏框架',
+    link: 'gameFramework',
+    icon: 'icon-youxi'
   },
   {
     title: '前端大牛',
