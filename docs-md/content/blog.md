@@ -19,6 +19,12 @@ var list = [
     desc: '腾讯Web前端团队，代表作品WebQQ，致力于前端技术的研究'
   },
   {
+    title: '粉丝日志',
+    link: 'http://blog.fens.me/',
+    logo: 'http://blog.fens.me/wp-content/uploads/2016/04/pay50.png',
+    desc: '跨界的IT博客| R, 数据科学, 金融量化, Nodejs, Hadoop家族,区块链'
+  },
+  {
     title: 'ISUX',
     link: 'https://isux.tencent.com/',
     logo: 'isux-favicon.jpg',

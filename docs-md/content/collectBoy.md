@@ -9,7 +9,7 @@ var list = [
   {
     title: '世界各国护照效力排名',
     link: 'https://www.passportindex.org/',
-    logo: 'https://www.passportindex.org/images/PassportIndexLogo.png',
+    logo: './assets/images/am.jpg',
     desc:
       '世界各国护照效力排名,可以查看每个国家的护照情况，排序过滤，对比，很强大'
   }

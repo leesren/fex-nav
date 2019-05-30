@@ -25,11 +25,7 @@ var navList = [
     link: 'framework',
     icon: 'icon-application'
   },
-  {
-    title: '开发平台',
-    link: 'front-end-platform',
-    icon: 'icon-tool'
-  },
+
   {
     title: '图形动效',
     link: 'animation',
@@ -41,11 +37,7 @@ var navList = [
     link: 'css',
     icon: 'icon-ui-copy'
   },
-  {
-    title: '前端大会',
-    link: 'front-end-conf',
-    icon: 'icon-conference'
-  },
+
   {
     title: 'Node.js相关',
     link: 'nodejs',
@@ -72,6 +64,43 @@ var navList = [
     link: 'fontIcon',
     icon: 'icon-ziti'
   },
+
+  {
+    title: '数据API',
+    link: 'api',
+    icon: 'ion-md-analytics'
+  },
+
+  {
+    title: '书籍推荐',
+    link: 'bookShare',
+    icon: 'icon-shu-copy'
+  },
+  {
+    title: '有趣的',
+    link: 'funnyShare',
+    icon: 'ion-md-aperture'
+  },
+  {
+    title: '收集狂',
+    link: 'collectBoy',
+    icon: 'ion-md-star'
+  },
+  {
+    title: '深度学习',
+    link: 'deepLearning',
+    icon: 'ion-md-infinite'
+  },
+  {
+    title: '数据分析',
+    link: 'dataAnalytics',
+    icon: 'ion-md-pulse'
+  },
+  {
+    title: '开发平台',
+    link: 'front-end-platform',
+    icon: 'icon-tool'
+  },
   {
     title: '设计资源',
     link: 'designNav',
@@ -81,11 +110,6 @@ var navList = [
     title: '前端公众号',
     link: 'wechatSubscription',
     icon: 'icon-importedlayerscopy3'
-  },
-  {
-    title: '数据API',
-    link: 'api',
-    icon: 'ion-md-analytics'
   },
   {
     title: 'IDE',
@@ -103,19 +127,9 @@ var navList = [
     icon: 'icon-usersecret'
   },
   {
-    title: '书籍推荐',
-    link: 'bookShare',
-    icon: 'icon-shu-copy'
-  },
-  {
-    title: '有趣的',
-    link: 'funnyShare',
-    icon: 'ion-md-aperture'
-  },
-  {
-    title: '收集狂',
-    link: 'collectBoy',
-    icon: 'ion-md-star'
+    title: '前端大会',
+    link: 'front-end-conf',
+    icon: 'icon-conference'
   }
 ];
 ```
