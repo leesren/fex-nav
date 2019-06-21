@@ -35,6 +35,18 @@ var list = [
     link: 'https://www.draw.io/',
     logo: './assets/images/drawio.jpg',
     desc: '在线图表制作工具'
+  },
+  {
+    title: '在线sketch.io',
+    link: 'https://sketch.io/sketchpad/',
+    logo: './assets/images/sketch.png',
+    desc: '在线绘图工具'
+  },
+  {
+    title: '在线creately',
+    link: 'https://creately.com/app/?tempID=gc7qvpsj1&login_type=demo#',
+    logo: './assets/images/creately.jpg',
+    desc: '在线绘图工具'
   }
 ];
 ```
