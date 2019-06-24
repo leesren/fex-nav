@@ -57,8 +57,8 @@ var list = [
   },
   {
     title: '茅台03',
-    link: 'https://image.taoguba.com.cn/img/user_icon_60.png',
-    logo: 'efe-favicon.png',
+    link: 'https://leesren.github.io/maotai03/index.html',
+    logo: 'https://image.taoguba.com.cn/img/user_icon_60.png',
     desc: '冯柳博客'
   }
 ];
