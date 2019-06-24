@@ -1,6 +1,12 @@
 ```js
 var list = [
   {
+    title: '百度热点',
+    link: 'http://top.baidu.com/buzz?b=42&c=513&fr=topcategory_c513',
+    logo: 'http://top.bdimg.com/frontend/img/logo@2x.png',
+    desc: '正在热搜：~~~'
+  },
+  {
     title: 'Trending',
     link: 'https://github.com/trending',
     logo: './assets/images/github-favicon.png',
