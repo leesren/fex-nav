@@ -54,6 +54,12 @@ var list = [
     link: 'http://efe.baidu.com/',
     logo: 'efe-favicon.png',
     desc: '由百度多个遵循统一技术体系的前端团队所组成'
+  },
+  {
+    title: '茅台03',
+    link: 'https://image.taoguba.com.cn/img/user_icon_60.png',
+    logo: 'efe-favicon.png',
+    desc: '冯柳博客'
   }
 ];
 ```
