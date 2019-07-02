@@ -47,6 +47,13 @@ var list = [
     link: 'https://creately.com/app/?tempID=gc7qvpsj1&login_type=demo#',
     logo: './assets/images/creately.jpg',
     desc: '在线绘图工具'
+  },
+  {
+    title: '在线PS',
+    link: 'https://www.photopea.com/',
+    logo:
+      'https://user-gold-cdn.xitu.io/2019/6/25/16b8c79585e798be?imageView2/0/w/1280/h/960/format/webp/ignore-error/1',
+    desc: '在线版的PS'
   }
 ];
 ```

@@ -21,6 +21,13 @@ var list = [
     logo:
       'https://camo.githubusercontent.com/0905c7d634421f8aa4ab3ddf19a582572df568e1/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67',
     desc: '开源深度学习的鼻祖了'
+  },
+  {
+    title: '动手学深度学习',
+    link: 'http://zh.d2l.ai/chapter_how-to-use/how-to-use.html',
+    logo: 'http://zh.d2l.ai/_images/frontpage/front.png',
+    desc:
+      '本书将全面介绍深度学习从模型构造到模型训练的方方面面，以及它们在计算机视觉和自然语言处理中的应用。我们不仅将阐述算法原理，还将基于Apache MXNet对算法进行实现，并实际运行它们。本书的每一节都是一个Jupyter记事本。它将文字、公式、图像、代码和运行结果结合在了一起。读者不但能直接阅读它们，而且可以运行它们以获得交互式的学习体验'
   }
 ];
 ```
