@@ -60,6 +60,13 @@ var list = [
     link: 'https://leesren.github.io/maotai03/index.html',
     logo: 'https://image.taoguba.com.cn/img/user_icon_60.png',
     desc: '冯柳博客'
+  },
+  {
+    title: '张鑫旭',
+    link: 'https://www.zhangxinxu.com/',
+    logo: 'https://image.zhangxinxu.com/image/blog/zxx_240_0818.jpg',
+    desc:
+      '张鑫旭more，09年华中科技大学毕业，现上海，就职于阅文集团，专注web前端偏前领域，钓鱼爱好者，著有《CSS世界》。'
   }
 ];
 ```
