@@ -67,6 +67,12 @@ var list = [
     logo: 'https://image.zhangxinxu.com/image/blog/zxx_240_0818.jpg',
     desc:
       '张鑫旭more，09年华中科技大学毕业，现上海，就职于阅文集团，专注web前端偏前领域，钓鱼爱好者，著有《CSS世界》。'
+  },
+  {
+    title: '耗子哥',
+    link: 'https://coolshell.cn/',
+    logo: 'https://coolshell.cn/coolshell_logo.png',
+    desc: '享受编程和技术所带来的快乐 – Coding Your Ambition'
   }
 ];
 ```
