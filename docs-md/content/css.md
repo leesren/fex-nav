@@ -31,6 +31,13 @@ var list = [
     logo:
       'https://picturepan2.github.io/instagram.css/assets/img/instagram.jpg',
     desc: 'Instagram 滤镜 CSS实现'
+  },
+  {
+    title: 'components.ai',
+    link: 'https://components.ai/',
+    logo: './assets/images/ai-css.jpg',
+    desc:
+      'Experimental platform for exploring generative design systems,常用的CSS颜色工具'
   }
 ];
 ```
