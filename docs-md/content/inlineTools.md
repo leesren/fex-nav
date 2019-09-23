@@ -60,6 +60,13 @@ var list = [
     link: 'https://imgcook.taobao.org/',
     logo: 'https://img.alicdn.com/tfs/TB1lle4yQzoK1RjSZFlXXai4VXa-200-64.png',
     desc: '一键生成可维护的 UI 视图代码'
+  },
+  {
+    title: 'MDN技术文档',
+    link: 'https://developer.mozilla.org/zh-CN/',
+    logo:
+      'https://developer.mozilla.org/static/img/web-docs-sprite.22a6a085cf14.svg',
+    desc: '源于开发者，服务开发者'
   }
 ];
 ```
