@@ -79,6 +79,12 @@ var list = [
     link: 'http://www.ruanyifeng.com/blog/',
     logo: 'http://www.ruanyifeng.com/blog/images/person2_s.jpg',
     desc: '阮一峰的网络日志'
+  },
+  {
+    title: 'TGIdea',
+    link: 'https://tgideas.qq.com/index.html',
+    logo: './assets/images/tgidea.jpg',
+    desc: 'TGideas-腾讯互动娱乐创意设计团队'
   }
 ];
 ```
