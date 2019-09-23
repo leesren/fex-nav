@@ -47,6 +47,12 @@ var list = [
     link: 'http://www.jstips.co/',
     logo: 'jstips-favicon.png',
     desc: '每天推出一个JS技巧的网站'
+  },
+  {
+    title: 'Awesomes-Web前端开发资源库',
+    link: 'https://www.awesomes.cn/',
+    logo: 'https://www.awesomes.cn/images/logo.png',
+    desc: 'Awesomes-Web前端开发资源库'
   }
 ];
 ```
