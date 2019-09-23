@@ -56,7 +56,7 @@ var list = [
     desc: '由百度多个遵循统一技术体系的前端团队所组成'
   },
   {
-    title: '茅台03',
+    title: '茅台03-github',
     link: 'https://leesren.github.io/maotai03/index.html',
     logo: 'https://image.taoguba.com.cn/img/user_icon_60.png',
     desc: '冯柳博客'
@@ -73,6 +73,12 @@ var list = [
     link: 'https://coolshell.cn/',
     logo: 'https://coolshell.cn/coolshell_logo.png',
     desc: '享受编程和技术所带来的快乐 – Coding Your Ambition'
+  },
+  {
+    title: '阮一峰',
+    link: 'http://www.ruanyifeng.com/blog/',
+    logo: 'http://www.ruanyifeng.com/blog/images/person2_s.jpg',
+    desc: '阮一峰的网络日志'
   }
 ];
 ```
