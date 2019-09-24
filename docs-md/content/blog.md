@@ -85,6 +85,19 @@ var list = [
     link: 'https://tgideas.qq.com/index.html',
     logo: './assets/images/tgidea.jpg',
     desc: 'TGideas-腾讯互动娱乐创意设计团队'
+  },
+  {
+    title: 'CDC',
+    link: 'https://cdc.tencent.com/',
+    logo: './assets/images/cdc.jpg',
+    desc:
+      '腾讯CDC是一个设计团队，做世界一流的互联网设计团队，为用户创造优质在线生活体验。CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。'
+  },
+  {
+    title: 'JDC',
+    link: 'http://jdc.jd.com/',
+    logo: './assets/images/jdc.jpg',
+    desc: '用户研究'
   }
 ];
 ```

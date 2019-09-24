@@ -122,6 +122,11 @@ var navList = [
     icon: 'icon-youxi'
   },
   {
+    title: '3D',
+    link: '3D',
+    icon: 'icon-youxi'
+  },
+  {
     title: '前端大牛',
     link: 'excellentFrontEndEngineer',
     icon: 'icon-usersecret'

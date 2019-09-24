@@ -7,6 +7,12 @@ var list = [
     desc: '只有高手分享的中文技术社区'
   },
   {
+    title: '前端外刊评论',
+    link: 'https://zhuanlan.zhihu.com/FrontendMagazine',
+    logo: 'https://pic3.zhimg.com/bd21f286e6aa5e210b60e2e257ce890b_t.jpg',
+    desc: '关注前端技术，探寻深邃思想'
+  },
+  {
     title: 'Stack Overflow',
     link: 'http://stackoverflow.com/',
     logo: 'stackoverflow-favicon.png',

@@ -38,6 +38,12 @@ var list = [
     logo: 'https://www.pixijs.com/img/blank.gif',
     desc:
       'Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.中文 https://github.com/Zainking/learningPixi#introduction'
+  },
+  {
+    title: 'lottie动画资源',
+    link: 'https://lottiefiles.com/featured',
+    logo: './assets/images/lottiefiles.jpg',
+    desc: 'lottie动画资源'
   }
 ];
 ```
