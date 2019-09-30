@@ -67,6 +67,13 @@ var list = [
     logo:
       'https://developer.mozilla.org/static/img/web-docs-sprite.22a6a085cf14.svg',
     desc: '源于开发者，服务开发者'
+  },
+  {
+    title: '在线字体转换transfonter',
+    link: 'https://transfonter.org/',
+    logo: 'https://transfonter.org/images/logo.png',
+    desc:
+      'TTF, OTF, WOFF, WOFF2 or SVG, 10 MB per file. Multiupload and drag-and-drop is supported.'
   }
 ];
 ```
