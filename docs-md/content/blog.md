@@ -75,12 +75,6 @@ var list = [
     desc: '享受编程和技术所带来的快乐 – Coding Your Ambition'
   },
   {
-    title: '阮一峰',
-    link: 'http://www.ruanyifeng.com/blog/',
-    logo: 'http://www.ruanyifeng.com/blog/images/person2_s.jpg',
-    desc: '阮一峰的网络日志'
-  },
-  {
     title: 'TGIdea',
     link: 'https://tgideas.qq.com/index.html',
     logo: './assets/images/tgidea.jpg',

@@ -56,6 +56,12 @@ var list = [
     desc: '在线版的PS'
   },
   {
+    title: '在线SVG编辑器',
+    link: 'https://svg.wxeditor.com/',
+    logo: 'https://svg.wxeditor.com/images/logo.png',
+    desc: '免费在线SVG编辑器'
+  },
+  {
     title: 'imgcook',
     link: 'https://imgcook.taobao.org/',
     logo: 'https://img.alicdn.com/tfs/TB1lle4yQzoK1RjSZFlXXai4VXa-200-64.png',

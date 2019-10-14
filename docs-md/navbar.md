@@ -6,6 +6,11 @@ var navList = [
     icon: 'icon-zuzhi'
   },
   {
+    title: '订阅服务',
+    link: 'subscribe',
+    ionic: 'ion-md-trending-up'
+  },
+  {
     title: '前端趋势',
     link: 'analytics',
     ionic: 'ion-md-trending-up'
@@ -57,7 +62,7 @@ var navList = [
   {
     title: '在线工具',
     link: 'inlineTools',
-    icon: 'icon-tool'
+    icon: 'icon-jiantou'
   },
   {
     title: '字体图标',
