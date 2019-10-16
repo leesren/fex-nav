@@ -24,6 +24,13 @@ var list = [
     link: 'https://arstechnica.com/science/',
     logo: './assets/images/science-blog.jpg',
     desc: 'SCIENCE / Science & Exploration'
+  },
+  {
+    title: '果壳',
+    link: 'https://www.guokr.com/',
+    logo:
+      'http://1-im.guokr.com/RpTD-3OfhEzIDGtLO1AN1Rm36c_418Dp0KKv7n25P7cjAgAAmwAAAFBO.png',
+    desc: '果壳。科技有意思'
   }
 ];
 ```
