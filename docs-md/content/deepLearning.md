@@ -36,6 +36,14 @@ var list = [
       'https://raw.githubusercontent.com/microsoft/ai-edu/master/B-%E6%95%99%E5%AD%A6%E6%A1%88%E4%BE%8B%E4%B8%8E%E5%AE%9E%E8%B7%B5/B6-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/Images/6/BinaryClassifierNN.png',
     desc:
       '中文的AI教育材料，AI education materials for Chinese students, teachers and IT professionals.'
+  },
+  {
+    title: 'AiLearning',
+    link: 'https://github.com/apachecn/AiLearning',
+    logo:
+      'https://camo.githubusercontent.com/9d35c24a9d070c56093b5598ef22afae12a2f45b/687474703a2f2f646174612e617061636865636e2e6f72672f696d672f6c6f676f2e6a7067',
+    desc:
+      'AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/'
   }
 ];
 ```
