@@ -80,6 +80,12 @@ var list = [
     logo: 'https://transfonter.org/images/logo.png',
     desc:
       'TTF, OTF, WOFF, WOFF2 or SVG, 10 MB per file. Multiupload and drag-and-drop is supported.'
+  },
+  {
+    title: '在线字体转换transfonter2',
+    link: 'https://onlinefontconverter.com/',
+    logo: 'https://transfonter.org/images/logo.png',
+    desc: 'onlinefontconverter'
   }
 ];
 ```
