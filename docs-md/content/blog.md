@@ -19,6 +19,12 @@ var list = [
     desc: '腾讯Web前端团队，代表作品WebQQ，致力于前端技术的研究'
   },
   {
+    title: '腾讯IMWeb团队',
+    link: 'https://juejin.im/user/58c76a0a8ac247072013ce93',
+    logo: 'https://user-gold-cdn.xitu.io/2018/8/11/16527f97b29e5599?imageView2/1/w/180/h/180/q/85/format/webp/interlace/1',
+    desc: '前端开发腾讯'
+  },
+  {
     title: '粉丝日志',
     link: 'http://blog.fens.me/',
     logo: 'http://blog.fens.me/wp-content/uploads/2016/04/pay50.png',
